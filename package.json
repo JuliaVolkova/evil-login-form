@@ -1,0 +1,11 @@
+{
+  "name": "evil-login-form",
+  "version": "1.0.0",
+  "description": "Test task for Evil Martians",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iuliia Volkova",
+  "license": "ISC"
+}
